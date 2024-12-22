@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <object-set>
+    <root path=""/>
+    <dv.virtualview path="sessions">
+      <column name="virtual_column_name" expr=""/>
+    </dv.virtualview>
+  </object-set>
+</data>
